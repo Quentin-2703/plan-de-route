@@ -1,5 +1,5 @@
-const CACHE = "pdr-v1";
-const CORE = ["./", "./index.html", "./config.js", "./manifest.webmanifest",
+const CACHE = "pdr-v2";
+const CORE = ["./", "./index.html", "./config.js", "./manifest.webmanifest", "./exercises.js",
   "./icons/icon-192.png", "./icons/icon-512.png", "./icons/apple-touch-icon.png",
   "https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.57.4/dist/umd/supabase.min.js"];
 
