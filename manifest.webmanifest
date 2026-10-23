@@ -1,0 +1,17 @@
+{
+  "name": "Plan de route",
+  "short_name": "Plan de route",
+  "description": "Mon suivi journalier : habitudes, tâches, séries et niveaux.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B1A1E",
+  "theme_color": "#0B1A1E",
+  "lang": "fr",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
